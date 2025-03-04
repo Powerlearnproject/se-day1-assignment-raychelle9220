@@ -16,7 +16,7 @@ Identify and describe at least three key milestones in the evolution of software
 2. The rise of structured and object oriented programming(1970s-1980s)- To improve code redability and maintainability.
 3. The agile revolution(2001-present)- the release of the agile mmanifesto in 2001 changed how software was developed. 
 
-List and briefly explain the phases of the Software Development Life Cycle.
+List and briefly explain the phases of the Software Development Life Cycle. 
 1. Requirements- gathering and documenting user needs and system requirements.
 2. Design- creating high level and detailed designs of the software architecture and user interface
 3. Implementation- Writting code and building the software according to the design specifications.
